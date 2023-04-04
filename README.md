@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-💡 Atualmente Estudante de Desenvolvimento Front-End <br><br>🏷 Apaixonada por Tecnologia desde que a Matrix me codou <br><br>📌 Em busca de novas experiências e muito networking!
+💡 Atualmente cursando Ciência da Computação com ênfase em Full Stack Dev <br><br>🏷 Apaixonada por Tecnologia desde que a Matrix me codou <br><br>📌 Em busca de novas experiências e muito networking!
 
 
 ## 🌐 Sociais:
