@@ -1,9 +1,11 @@
+## 🖖🏻👾 Hello World!  ---- 🦀🌱 I'm Vitorya! 
+
 # 💫 Sobre Mim:
-💡 Desenvolvedora Front-end <br><br>🏷 Apaixonada por Tecnologia desde que a Matrix me codou <br><br>📌 Em busca de muito codigo, novas experiências e muito networking!
-
-
-## 🌐 Sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vitorya_m2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/graziellevitorya) 
+👩🏻‍💻 Desenvolvedora Front-end <br>
+🤓 Cursando Analise e Desenvolvimento de Sistemas <br>
+🍄 (e tambem Ciencias Biologicas) <br>
+💟 Apaixonada por Tecnologia desde que a Matrix me codou <br><br>
+📌 Em busca de muito codigo, novas experiências e muito networking!
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
