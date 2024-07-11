@@ -1,8 +1,8 @@
 ## 🖖🏻👾 Hello World!  ---- 🦀 I'm Vitorya! 
 
 # 💫 Sobre Mim:
-👩🏻‍💻 Desenvolvedora Front-end e aspirante a UI Designer <br>
-🐍 Desbravando o universo Back-end com C e Python <br>
+👩🏻‍💻 Desenvolvedora Web/Front-end e aspirante a UI Designer <br>
+🐍 Desbravando o universo Back-end com NodeJS e Python <br>
 🤓 Cursando Analise e Desenvolvimento de Sistemas <br>
 💌 Apaixonada por Tech desde que a Matrix me codou <br><br>
 📌 Em busca de muito codigo, novas experiências e muito networking!
