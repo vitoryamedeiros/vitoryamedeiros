@@ -2,7 +2,7 @@
 
 # 💫 Sobre Mim:
 👩🏻‍💻 Desenvolvedora de Software e aspirante a UI/UX Designer <br>
-🐍 Desbravando o universo Back-end com NodeJS e Java <br>
+🐍 Desbravando o universo Back-end com NodeJS, Java e Python <br>
 🤓 Cursando Analise e Desenvolvimento de Sistemas <br>
 💌 Apaixonada por Tech desde que a Matrix me codou <br>
 📌 Em busca de muito codigo, novas experiências e muito networking!<br><br>
