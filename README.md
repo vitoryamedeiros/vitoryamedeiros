@@ -1,8 +1,8 @@
 ## 🖖🏻👾 Hello World!  ---- 🦀 I'm Vitorya! 
 
 # 💫 Sobre Mim:
-👩🏻‍💻 Desenvolvedora de Software e aspirante a UI/UX Designer <br>
-🐍 Desbravando o universo Back-end com NodeJS, Java e Python <br>
+👩🏻‍💻 Desenvolvedora de Software & Designer <br>
+🐍 Java, Python, React & Typescript <br>
 🤓 Cursando Analise e Desenvolvimento de Sistemas <br>
 💌 Apaixonada por Tech desde que a Matrix me codou <br>
 📌 Em busca de muito codigo, novas experiências e muito networking!<br><br>
